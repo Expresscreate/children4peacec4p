@@ -1,0 +1,5 @@
+*.tmp
+*.php
+index[0-9a-f]*.html
+.git/
+wrangler.jsonc
